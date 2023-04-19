@@ -1,0 +1,65 @@
+body {
+    margin: 20px;
+    /*
+    Challenge:
+    Find a web safe font you like, and add it 
+    to your card.
+    */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.avatar {
+    width: 150px;
+}
+
+
+@keyframes color-fade {
+  0%   {background-color: pink;}
+  50%  {background-color: lavender;}
+  100% {background-color: #ddebf8;}
+}
+
+div {
+  width: auto;
+  height: auto;
+  background-color: #ddebf8;
+  animation-name: color-fade;
+  animation-duration: 10s;
+}
+
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #ddebf8;
+    color: #2b2839;
+    border-bottom: 10px solid #ffc8dd;
+    border-radius: 5px;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.border-blue {
+    border: 1px groove blue;
+    border-radius: 5px;
+}
+
+.name{
+  color: #8338ec;
+}
+
+h3:link {
+  color: #8338ec;
+}
+
+/* visited link */
+h3:visited {
+  color: blue;
+}
+
+h3:hover {
+  background-color: lightpink;
+}
