@@ -6,6 +6,6 @@ $ npm start
 ````
 Happy Coding!
 
-Link to preview my business card live: https://mariapaulas-business-card.netlify.app/
-
-![Business-Card](https://user-images.githubusercontent.com/104603278/233742213-364cfd7f-abb6-43c4-af6c-1216c3e49cb2.gif)
+**Link to preview my business card live: https://mariapaulas-business-card.netlify.app/
+**
+![business-card](https://user-images.githubusercontent.com/104603278/233742394-1c034ec4-d257-4a23-9e0f-9e42dd05707c.gif)
